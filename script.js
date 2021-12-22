@@ -44,7 +44,7 @@ var makeDeck = function () {
   var cardDeck = [];
 
   // Initialise an array of the 4 suits in our deck. This will be the array outer loop.
-  var suits = ["🔸", "♣", "💗", "♠"];
+  var suits = ["diamonds", "clubs", "hearts", "spades"];
 
   // Create index for suits, and outer while loop coinditions.
   var suitIndex = 0;
